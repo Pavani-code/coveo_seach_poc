@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<note>
-  <to>Pavani</to>
-  <from>Chitti</from>
-  <heading>Reminder</heading>
-  <body>Don't forget our meeting tomorrow!</body>
-</note>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://pavani-code.github.io/coveo_seach_poc/page1</loc>
+  </url>
+
+  <url>
+    <loc>https://pavani-code.github.io/coveo_seach_poc/page2</loc>
+  </url>
+
+  <url>
+    <loc>https://pavani-code.github.io/coveo_seach_poc/page3</loc>
+  </url>
+    <url>
+    <loc>https://pavani-code.github.io/coveo_seach_poc/page4</loc>
+  </url>
+    <url>
+    <loc>https://pavani-code.github.io/coveo_seach_poc/page5</loc>
+  </url>
+    <url>
+    <loc>https://pavani-code.github.io/coveo_seach_poc/page6</loc>
+  </url>
+    <url>
+    <loc>https://pavani-code.github.io/coveo_seach_poc/page7</loc>
+  </url>
+    <url>
+    <loc>https://pavani-code.github.io/coveo_seach_poc/page8</loc>
+  </url>
+    <url>
+    <loc>https://pavani-code.github.io/coveo_seach_poc/page9</loc>
+  </url>
+    <url>
+    <loc>https://pavani-code.github.io/coveo_seach_poc/page10</loc>
+  </url>
+
+</urlset>
